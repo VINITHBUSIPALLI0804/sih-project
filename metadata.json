@@ -1,0 +1,9 @@
+{
+  "name": "AR Heritage Explorer",
+  "description": "An application that uses your camera to identify cultural and heritage sites, providing detailed information. Users can also contribute by uploading their own media of the location.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
